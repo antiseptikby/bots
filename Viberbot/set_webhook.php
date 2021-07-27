@@ -1,6 +1,6 @@
 <?php
-	$auth_token = 'AUTH_TOKEN';
-	$webhook = 'WEBHOOK_URL';
+	$auth_token = '4db9fcad9c67df1a-a1aad3b1bf967aa5-8f92c4ab9b4a67e7';
+	$webhook = 'https://github.com/the-lans/bots/edit/master/Viberbot/index.php';
 	
 	$jsonData = 
 	'{
